@@ -1,0 +1,19 @@
+#searchcontainer {
+  padding: 15px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+#searchcontainer input {
+  width: 200px;
+}
+#searchcontainer button {
+  background-color: rgba(1, 159, 198);
+  width: 75px;
+}
+.searchcontrol {
+  box-shadow: 2px 2px 5px black;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
